@@ -1,5 +1,7 @@
 # Sql cheat sheet
 
+**attention** aux valeurs null. Dès que l'on associe 2 ou + valeurs et qu'une est null cela rendra null
+
 A quick reminder of all relevant SQL queries and exemples on how to use them.
 
 # Table of contents
